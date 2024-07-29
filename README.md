@@ -1,7 +1,6 @@
 # Fix Telegram API App Creation Error
 
-![Api Error]([https://example.com/path/to/image.jpg](https://imgur.com/RQrIE7B
-))
+![img](https://i.imgur.com/RQrIE7B.png)
 
 [English](#english) | [فارسی](#فارسی)
 

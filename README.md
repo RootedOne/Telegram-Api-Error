@@ -1,5 +1,5 @@
 # Fix Telegram API App Creation Error
-
+https://imgur.com/RQrIE7B
 [English](#english) | [فارسی](#فارسی)
 
 ## English

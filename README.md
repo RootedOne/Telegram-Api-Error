@@ -2,7 +2,11 @@
 
 ![img](https://i.imgur.com/RQrIE7B.png)
 
+<div align="center">
+
 [English](#english) | [فارسی](#فارسی)
+
+</div>
 
 ## English
 
